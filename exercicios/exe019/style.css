@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+body{
+    background-image: linear-gradient(tp right, green, yellow);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: justify;
+    text-indent: 16px;
+    padding: 10px;
+    
+
+}
+h1{
+    color: #380707;
+    font-family: Arial,sans-serif;
+    font-size: xx-large;
+    color: #3d1212;
+    background-color: #992f2f;
+    border-radius: 10em;
+    text-align: center;
+}
+h1#principal {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #3d1212;
+    background-color: #992f2f;
+    border-radius: 10em;
+
+
+}
+h2{
+    color: #390c64;
+}
+
